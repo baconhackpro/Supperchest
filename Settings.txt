@@ -1,0 +1,7 @@
+_G.TieuDe = "Tiktok : Bacon Hack Pro"
+_G.ThongBao = "Lũ Trẻ Trâu !!"
+_G.ThongBaoChoose = "Đã Update 1.0 [Blox Fruit]"
+
+_G.Discord = "https://discord.com/invite/asQZpgvX4k"
+_G.YouTube = "https://www.youtube.com/@Bacon91156"
+_G.TikTok = "tiktok.com/@binh.yes.pro"
